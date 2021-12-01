@@ -1,2 +1,3 @@
-# advent-of-code-20201
-Advent of code 2021
+# Advent of code 2021
+##
+Fun stuff https://adventofcode.com/
